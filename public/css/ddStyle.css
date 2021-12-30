@@ -79,6 +79,20 @@ body{
     font-size: x-large;
 }
 
+footer{
+    margin-top: 6%;
+    background-color: rgb(247,245,246);
+}
+
+.outText3{
+    font-size: 20px;
+    font-weight: bold;
+    color: darkgray;
+}
+.outText4{
+    font-size: 30px;
+    font-weight: bold;
+}
 
 
 @media (max-width:768px){

@@ -5,12 +5,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link href="bootstrap.min.css" rel="stylesheet" />
-    <link href="../css/ddStyle.css" rel="stylesheet" />
+    <link href="css/ddStyle.css" rel="stylesheet" />
 
     <title>DealDrive|Home</title>
 </head>
 <body class="body">
-    {{-- <nav class="navbar navbar-expand-lg navbar-dark nav fixed-top">
+    <nav class="navbar navbar-expand-lg navbar-dark nav fixed-top">
         <a class="navbar-brand" href="/">DealDrive</a>
         <button class="navbar-toggler" data-target="#my-nav" data-toggle="collapse" aria-controls="my-nav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
@@ -46,7 +46,7 @@
 
     <section class="">
         dggd
-    </section> --}}
+    </section>
     
 
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
